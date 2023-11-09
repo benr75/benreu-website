@@ -1,4 +1,6 @@
 # coding: utf-8
+# https://gist.github.com/spiffytech/e73777e167dc5a8b6a87 < FROM
+
 
 require 'rubygems'
 require 'hpricot'
