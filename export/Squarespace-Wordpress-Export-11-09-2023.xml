@@ -1,0 +1,1433 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:wfw="http://wellformedweb.org/CommentAPI/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:wp="http://wordpress.org/export/1.2/">
+  <channel>
+    <title>benr.eu</title>
+    <link>https://benr.eu</link>
+    <pubDate>Sun, 12 Aug 2012 04:01:40 +0000</pubDate>
+    <description>&lt;a href ="https://benr.eu/about"&gt;"And you are?" ... "Just a guy"&lt;/a&gt;</description>
+    <language>en-US</language>
+    <wp:wxr_version>1.2</wp:wxr_version>
+    <wp:author>
+      <wp:author_id>-1684730257</wp:author_id>
+      <wp:author_login>ben@xcrventures.com</wp:author_login>
+      <wp:author_email>ben@xcrventures.com</wp:author_email>
+      <wp:author_display_name><![CDATA[Ben Reubenstein]]></wp:author_display_name>
+      <wp:author_first_name><![CDATA[Ben]]></wp:author_first_name>
+      <wp:author_last_name><![CDATA[Reubenstein]]></wp:author_last_name>
+    </wp:author>
+    <wp:category>
+      <wp:cat_name><![CDATA[Personal - null]]></wp:cat_name>
+      <wp:category_nicename>Personal-null</wp:category_nicename>
+      <wp:category_parent />
+    </wp:category>
+    <item>
+      <title>Closing a Chapter</title>
+      <link>/writing/2019/12/5/closing-a-chapter</link>
+      <content:encoded><![CDATA[<p>Today is my last day as the CEO of <a href="http://www.wundermanthompsonmobile.com">Wunderman Thompson Mobile</a>. It was a journey that began on paper in 2001 when I dropped my pursuits of a Computer Science degree<sup data-preserve-html-node="true">1</sup> and obtained a DBA for Xcellent Creations. Later (2008) I would incorporate as <a href="http://history.xcellentcreations.com/2008/01/24/xcellent-creations-inc/">Xcellent Creations Inc.</a> and grow the organization to ~20 before merging the company with <a href="https://wundermanthompsonmobile.com/double-encore-accelerates-growth-announces-merger-with-xcellent-creations-inc-to-create-mobile-powerhouse/">Double Encore</a> taking over as CEO.  Double Encore was <a href="https://www.denverpost.com/2014/08/07/denver-mobile-app-shop-double-encore-acquired-by-subsidiary-of-londons-wpp/">acquired by WPP in 2014</a> whereby we rebranded as POSSIBLE Mobile which today through a series of consolidations at WPP is now called <a href="https://wundermanthompsonmobile.com/2019/07/introducing-wunderman-thompson-mobile/">Wunderman Thompson Mobile</a>. At the start of 2018 I realized it was time to find the next adventure and worked throughout the year on a transition plan. I’m very excited that <a href="https://lbbonline.com/news/wunderman-thomson-mobile-announces-new-president/">Ted Ismert</a> will be taking over the lead spot of such an amazing organization. </p>
+<p>It took a while for me to find my way. I started off offering the services of an ISP (domains, hosting, websites) to the specialized service of mobile application development starting on iOS expanding to Android, tvOS, watchOS, Android TV, and Roku. Clients I had the honor to work with included Turner Sports, Major League Baseball, Pokémon, the PGA TOUR, JetBlue Airlines, and Major League Soccer to name a few. </p>
+<p>I have so much gratitude for the team members, customers, partners, and platforms that I was able to be part of. Special thanks to my best friend, wife, and co-founder Danielle. Also to Eric Daugherty my work wife and Jay Graves the best CTO/friend you could ever have. </p>
+<p>There is no way to rehash all the stories here (maybe I’ll write a book someday) but I would be remiss to not reminisce on some of my earliest memories getting into the business of mobile app development.</p>
+
+<hr />
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>June 24, 2007</strong> The weekend before the iPhone launched I had a drive to build something for the new platform. There was no App Store so in about 5 hours on a Sunday I built a simple web app that would test the download speed of your device in a browser, iPhone Network Test. The first day of iPhone availability over 10,000 people used the web app. I decided it was time to actually buy one of them, I splurged on the 4GB version. </p><p class="" style="white-space:pre-wrap;">The test worked but the UI was all messed up. Apple eventually requested that I change the name removing the word ‘iPhone’ so I went with iNetwork Test. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:400px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:108.25%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png" data-image-dimensions="400x433" data-image-focal-point="0.5,0.5" alt="A capture of the site in 2008 after adding many more features." data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png" width="400" height="433" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="">A capture of the site in 2008 after adding many more features.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:350px;"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description=""
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:144%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg" data-image-dimensions="350x504" data-image-focal-point="0.5,0.5" alt="inetwork_wall_street_journal_small.jpg" data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg" width="350" height="504" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>July 8, 2008</strong> <a href="https://twitter.com/waltmossberg">Walt Mossberg</a> wrote up his <a href="https://www.wsj.com/articles/SB121555740704037313">review of the new iPhone 3G</a>. I was struggling to get my app through review going back and forth with Apple Engineers so I was elated to see that the web app version of iNetwork Test was used to showcase the increased speed of the new device. I was able to exchange a few emails and meet Walt at CES in 2011. Walt never cared for my native app, preferring the simplicity of my web app :). </p>
+</div>
+
+
+
+<hr />
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>July 14, 2008</strong> the native iNetwork Test launched on the App Store. It was one of the first 100 or so apps to launch on the platform. I would update it often as the App Store used to have a view that showed the most recently updated Apps. It eventually peaked at 22 on the top 100 US Apps.</p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:320px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:143.75%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png" data-image-dimensions="320x460" data-image-focal-point="0.5,0.5" alt="inetworktest_s1.png" data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png" width="320" height="460" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<hr />
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2500px;"
+        >
+          
+        
+        
+
+        
+          
+            <button
+                class="
+                  sqs-block-image-button
+                  lightbox
+                  
+          
+        
+                "
+                data-description="&lt;p class=&quot;&quot;&gt;Photo by Danielle Reubenstein, Co-founder Xcellent Creations, Inc.&lt;/p&gt;"
+                data-lightbox-theme="dark"
+            >
+              <span class="v6-visually-hidden">View fullsize</span>
+              
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:66.47999572753906%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg" data-image-dimensions="2500x1662" data-image-focal-point="0.5,0.5" alt="Photo by Danielle Reubenstein, Co-founder Xcellent Creations, Inc." data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg" width="2500" height="1662" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+            </button>
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="">Photo by Danielle Reubenstein, Co-founder Xcellent Creations, Inc.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>August 2, 2008</strong> iPhoneDevCamp Colorado took place at the ID345 co-working space. In attendance were individuals who now work at Apple, founded companies in the space, worked on software for fortune 500 companies, and so much more. That day I met some of my best friends and allies in the industry. I met Dan Burcaw that day, CEO and founder of Double Encore. Little did I know we’d be merging the companies 5 years later. Although I didn’t meet him that day Jay Graves was also in attendance, CTO of Double Encore. Lindsay Giachetti, Andrew Hyde, Matt Matteson, Joe Pezzillo, Heather Capri, Tom Harrington, Brent Simmons, Marcus Zarra, Dave Batton, Julio Barros, Brian Erickson, Kendall Gelner, Bill Dudney, Micah Baldwin, and Daniel Newman to name a few of the other attendees. </p>
+</div>
+
+
+
+<hr />
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>September 25, 2008</strong> kicked of <a href="https://en.wikipedia.org/wiki/C4_(conference)">C4[2]</a>. The conference was great, in particular Craig Hockenberry’s opening talk, but what I remember most was sitting with Rich Siegel and John Gruber having a drink before the first evening. The main topic of conversation was pricing of apps with John adamant that I should have charged more than .99 for my app. I don’t know if all of the early apps charging more would have changed much, but the .99 app was definitely not what I built the business on as overtime I pivoted all app work to client services dropping development of our own apps. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1600px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:75%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg" data-image-dimensions="1600x1200" data-image-focal-point="0.5,0.5" alt="First night reception captured on the original iPhone 😬." data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg" width="1600" height="1200" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="">First night reception captured on the original iPhone 😬.</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<hr />
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">And I haven’t even gotten out of 2008… Much more to write but wanted to get a couple of these down.</p><p class="" style="white-space:pre-wrap;">It’s been quite a ride. At the final holiday party for the company I was presented with this infographic by the team. SO. MUCH. GRATITUDE. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:2335px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:148.17987060546875%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein" data-image-dimensions="2335x3460" data-image-focal-point="0.5,0.5" alt="Ben Reubenstein" data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein" width="2335" height="3460" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<p><sup data-preserve-html-node="true">1</sup> I did however complete my BA in Psychology!</p>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2019/12/5/closing-a-chapter</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>0</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 31 Dec 2019 22:32:54 +0000</pubDate>
+      <wp:post_date>2019-12-31 22:32:54</wp:post_date>
+      <wp:post_date_gmt>2019-12-31 22:32:54</wp:post_date_gmt>
+      <dc:creator>ben@xcrventures.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>The Next Chapter</title>
+      <link>/writing/2020/1/1/7zrd5pawnnx5nk8a5dnarywvnrf2ka</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><em>Wrote this Jan.1, 2020. Not sure why I didn’t post it but no better time than now to remind myself of these goals and share them. </em></p><p class="" style="white-space:pre-wrap;">There is nothing more valuable than your time. Here are some of the broad strokes for how I plan to approach this new decade. </p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;"><strong>Family<br></strong>I have two great boys and an amazing wife. The boys are 6 and 9, being present with them as they grow up is a number one priority. <strong><br></strong></p></li><li><p class="" style="white-space:pre-wrap;"><strong>Learning</strong><br>I have been 100% focused on the strategy, design, development, and deployment of iOS and Android apps for the past decade. For the first part of 2020 I’ll be spending time researching topics that I care about, but have not put time into. Some are purely for personal enrichment like 🎸, while other topics I plan to research may result in a service/product/invention, something I can pour some valuable effort into. Information distribution, climate change, and family needs in the digital age are a couple to start.<br></p></li><li><p class="" style="white-space:pre-wrap;"><strong>Building</strong><br>One thing I missed as my job went from software engineer to sales to culture was building things in code. In the last 6 months I spent time working on a lot of quick turn prototypes and it was really enjoyable. I want to catch up on my framework of choice, Rails, and also try to understand some of the newer trends in development that I have prejudice for. <br></p></li><li><p class="" style="white-space:pre-wrap;"><strong>Traveling, The Right Amount</strong><br>I love to travel. But for the past decade it was too much travel. A majority of it was for work which meant less time with my family. I will travel in 2020, but not hit top tier status with travel providers and that is ok.<br></p></li><li><p class="" style="white-space:pre-wrap;"><strong>Exercise</strong><br>🎿 🏄🏽‍♂️🚴🏼🤿<br></p></li></ol><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2020/1/1/7zrd5pawnnx5nk8a5dnarywvnrf2ka</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>1</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 04 Apr 2020 12:18:38 +0000</pubDate>
+      <wp:post_date>2020-04-04 12:18:38</wp:post_date>
+      <wp:post_date_gmt>2020-04-04 12:18:38</wp:post_date_gmt>
+      <dc:creator>ben@xcrventures.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Education Disrupted</title>
+      <link>/writing/2020/4/4/education-disrupted</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">School will not resume in person for the remainder of the year for my kids. As a parent I’m lucky in that I have the technology readily available and time flexibility to enable distance learning. Fast Internet, iPads, Chromebooks, Macs, Apple TVs, and a Windows PC. Plenty of screens. Just having these devices is a first step, knowing how to use them is the other advantage. My life has not only been run digitally with email, calendars, and video calls for decades, but I’ve written/implemented/supported these technologies.</p><p class="" style="white-space:pre-wrap;">The school has infrastructure with Google Classrooms. They’re also distributing Chromebooks to those that don’t have them, we are blessed to be in such a good school. However, 4th grade and Kindergarten were never meant to be done via distance learning. As I sat with my son last night going through his GMail and Google Calendar the weight of this change started to finally sink in. </p><p class="" style="white-space:pre-wrap;">The past week we’ve done video calls with the kids friends and there have been pilot video calls with teachers. Everyone is adapting, but it’s sad and upsetting. Although these digital tools are amazing and we are very fortunate to have them this is going to be tough. I’m sad that these tools will not be on the roadmap of things to learn, but the essential platform upon which their days will be based at such young ages. Kids are meant to play and socially interact in person. It is the greatest tool school can teach, how to get along with one another and interact in an in person setting. </p><p class="" style="white-space:pre-wrap;">Further, what about the digital divide? What about those kids that don’t have these tools? What about parents not as proficient in these skills?</p><p class="" style="white-space:pre-wrap;"><strong>If you’re reading this you’re digitally savvy and I implore you to have your ears open for opportunities to help. A teacher, student, or parent struggling to work with technology is an opportunity to help the community. Have an extra device laying around? Dust it off and get it in the hands of someone who can use it.</strong></p>
+</div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2020/4/4/education-disrupted</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>2</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Sat, 04 Apr 2020 13:20:28 +0000</pubDate>
+      <wp:post_date>2020-04-04 13:20:28</wp:post_date>
+      <wp:post_date_gmt>2020-04-04 13:20:28</wp:post_date_gmt>
+      <dc:creator>ben@xcrventures.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Relief in a Mix</title>
+      <link>/writing/2020/4/13/relief-in-a-mix</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">I busted out my <a href="https://www.minidisc.org/part_Sony_MZ-R50.html">old MiniDisc player</a> yesterday. My goal was to rip some of the live shows I recorded on it in the late 90s and early 00s. I managed to dump 3 discs containing the <a href="https://archive.org/details/db2001-03-31.shnf">3-31-2001 Disco Biscuits</a> show at the Fox Theatre in Boulder when I did some googling and realized most of the recordings I made were now available directly from the soundboard. My enthusiasm waned and I decided to put on one of the mixes I had in the box along with my live recordings. Ladies and gentlemen, I present the Mix of beautiful Sadness AND JOY Vol. 1. It was really great to listen to in order without looking at the track listing and quite the relief from the news for 66 minutes. </p>
+</div>
+
+
+
+<iframe src="https://open.spotify.com/embed/playlist/53l8FG3ZGMrft4zteJwApX" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1046px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:94.26386260986328%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1" data-image-dimensions="1046x986" data-image-focal-point="0.5,0.5" alt="MiniDisc Mix of beautiful Sadness AND JOY Vol. 1" data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1" width="1046" height="986" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1586816435090-8CK3IXPBT1DONF35WBMT/MiniDisc+Mix+of+beautiful+Sadness+AND+JOY+Vol.+1?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+      
+        </figure>
+      
+
+    </div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2020/4/13/relief-in-a-mix</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>3</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Mon, 13 Apr 2020 22:23:50 +0000</pubDate>
+      <wp:post_date>2020-04-13 22:23:50</wp:post_date>
+      <wp:post_date_gmt>2020-04-13 22:23:50</wp:post_date_gmt>
+      <dc:creator>ben@xcrventures.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Office Hours</title>
+      <link>/writing/2020/4/20/office-hours</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Over the past couple weeks one of the most rewarding activities has been calls with past colleagues, friends, and family. Connection is a key part of our psyche. With that I’ve decided to open up some <a href="https://calendly.com/benreu/30min">office hours</a> to connect with more people during this time. </p><p class="" style="white-space:pre-wrap;">Founder looking for perspective? Coder struggling with a problem? Career or leadership question? Just want to connect with another human? </p><p class="" style="white-space:pre-wrap;"><a href="https://calendly.com/benreu/30min">Book a time here.</a></p>
+</div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2020/4/20/office-hours</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>4</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Mon, 20 Apr 2020 14:44:44 +0000</pubDate>
+      <wp:post_date>2020-04-20 14:44:44</wp:post_date>
+      <wp:post_date_gmt>2020-04-20 14:44:44</wp:post_date_gmt>
+      <dc:creator>ben@xcrventures.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Deploy Your Own WireGuard VPN Server, Point and Click</title>
+      <link>/writing/2020/5/29/deploy-your-own-wireguard-vpn-server-point-and-click</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;"><strong>TL;DR: While stuck at home during quarantine I built a point and click interface to deploy a WireGuard VPN Server to DigitalOcean. Bypass navigating VPN providers and run your own in about 15 minutes located in Amsterdam, Bangalore, Frankfurt, London, New York, San Francisco, Singapore, or Toronto.</strong></p><p class="" style="white-space:pre-wrap;"><strong>Try it today, would love your feedback: </strong><a href="https://vpn.democratize.cloud" target="_blank"><strong>https://vpn.democratize.cloud</strong></a></p><p class="" style="white-space:pre-wrap;"><strong>See how it works, only pre-requisite is a </strong><a href="https://m.do.co/c/293013c2f99a"><strong>DigitalOcean</strong></a><strong> account:</strong></p>
+</div>
+
+
+
+<div class="sqs-video-wrapper" data-provider-name="" data-html="&lt;iframe src=&quot;//www.youtube.com/embed/Hh8m3vZJ6-0?wmode=opaque&amp;enablejsapi=1&quot; scrolling=&quot;no&quot; allowfullscreen=&quot;&quot; width=&quot;854&quot; height=&quot;480&quot; frameborder=&quot;0&quot;&gt;<br/>&lt;/iframe&gt;"></div>
+
+<div class="sqs-html-content">
+  <h1 style="white-space:pre-wrap;">Background</h1><p class="" style="white-space:pre-wrap;">A basic tool in digital hygiene is use of a VPN. For years I was a customer of Cloak VPN which then became Encrypt.me in 2017, who was then acquired by J2 Global. The service was (and probably still is) great, but with all those acquisitions and changes I started to look around at options. There are tons of VPN providers and packages. As I researched I came upon an <a href="https://github.com/trailofbits/algo">open source</a> tool, <a href="https://blog.trailofbits.com/2016/12/12/meet-algo-the-vpn-that-works/">AlgoVPN</a>. </p><blockquote><p class="" style="white-space:pre-wrap;">“Algo VPN is a set of Ansible scripts that simplify the setup of a  personal WireGuard and IPsec VPN. It uses the most secure defaults available and works with common cloud providers.”</p></blockquote><p class="" style="white-space:pre-wrap;">The first thing that caught my eye were the <a href="https://github.com/trailofbits/algo#endorsements">endorsements</a> so I gave it a shot.  After installing dependencies, setting up a DigitalOcean account, and running some commands I had a working VPN that I could setup on all of my devices. Further, the VPN was running on a server in my DigitalOcean account. Total cost was about $5 a month. </p><h1 style="white-space:pre-wrap;">Then Came Stay At Home</h1><p class="" style="white-space:pre-wrap;">I had some time on my hands and I started thinking about all of these solutions I had access to being a software engineer. Tools like Algo VPN are limited to use by those that understand leveraging the cloud, installing programming languages, supporting packages, using secure shells, etc… Could you democratize their use? This thinking led to two things:</p><ol data-rte-list="default"><li><p class="" style="white-space:pre-wrap;">A mission statement: “Allowing everyone to leverage open source tools on their cloud.” https://democratize.cloud</p></li><li><p class="" style="white-space:pre-wrap;">The development of https://vpn.democratize.cloud</p></li></ol><p class="" style="white-space:pre-wrap;">This first version was beta tested by a small group with rounds of feedback simplifying the interface. In future iterations I plan to support more advanced options as well as offer customization such as naming servers and devices in a paid plan. </p><p class="" style="white-space:pre-wrap;">I’m also starting to explore if the solution may work for Managed Service Providers, if that is you please do get in <a href="https://benr.eu/about">touch</a>.</p><p class="" data-rte-preserve-empty="true" style="white-space:pre-wrap;"></p>
+</div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2020/5/29/deploy-your-own-wireguard-vpn-server-point-and-click</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>5</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Tue, 21 Jul 2020 20:25:09 +0000</pubDate>
+      <wp:post_date>2020-07-21 20:25:09</wp:post_date>
+      <wp:post_date_gmt>2020-07-21 20:25:09</wp:post_date_gmt>
+      <dc:creator>ben@xcrventures.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <title>Setting up WireGuard VPN on Debian 11</title>
+      <link>/writing/2022/8/1/setting-up-wireguard-vpn-on-debian-11</link>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Putting this here to remind myself the next time I need to do this ;). </p>
+</div>
+
+
+
+<pre class="source-code"># Update package information
+sudo apt update
+
+# Install WireGuard
+sudo apt install wireguard
+
+# Reboot
+sudo reboot
+
+# Debian 11 uses resolvectl, symlink it to resolvconf so WireGuard can use it
+sudo ln -s /usr/bin/resolvectl /usr/local/bin/resolvconf
+
+# Enable resolved
+sudo systemctl enable systemd-resolved.service
+
+# Start WireGuard
+sudo wg-quick up PATH_TO_YOUR_WIREGUARD_CONF</pre>
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">For reference:<br><br><a href="https://superuser.com/questions/1500691/usr-bin-wg-quick-line-31-resolvconf-command-not-found-wireguard-debian">https://superuser.com/questions/1500691/usr-bin-wg-quick-line-31-resolvconf-command-not-found-wireguard-debian</a></p><p class="" style="white-space:pre-wrap;"><a href="https://superuser.com/questions/1427311/activation-via-systemd-failed-for-unit-dbus-org-freedesktop-resolve1-service">https://superuser.com/questions/1427311/activation-via-systemd-failed-for-unit-dbus-org-freedesktop-resolve1-service</a></p>
+</div>
+
+
+
+
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">——</p>
+</div>]]></content:encoded>
+      <excerpt:encoded />
+      <wp:post_name>2022/8/1/setting-up-wireguard-vpn-on-debian-11</wp:post_name>
+      <wp:post_type>post</wp:post_type>
+      <wp:post_id>6</wp:post_id>
+      <wp:status>publish</wp:status>
+      <pubDate>Mon, 01 Aug 2022 14:17:41 +0000</pubDate>
+      <wp:post_date>2022-08-01 14:17:41</wp:post_date>
+      <wp:post_date_gmt>2022-08-01 14:17:41</wp:post_date_gmt>
+      <dc:creator>ben@xcrventures.com</dc:creator>
+      <wp:comment_status>closed</wp:comment_status>
+    </item>
+    <item>
+      <link>/about</link>
+      <title>About</title>
+      <pubDate>Mon, 26 Sep 2022 18:56:01 +0000</pubDate>
+      <content:encoded><![CDATA[&nbsp;
+
+<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">Hi! I’m Ben Reubenstein. I’ve had the distinct privilege of growing up in the analog to digital transition (1981 to present) watching a huge machine on my desk fit into my pocket. </p><p class="" style="white-space:pre-wrap;">Over that time I’ve been a Software Engineer, a CTO, a Founder, and a CEO. I was <a href="https://www.profgalloway.com/third-base">lucky</a> enough to have a successful exit. Currently I’m running <a href="https://www.xcrventures.com">XCR Ventures, LLC</a> which invests in early stage companies and a partner in Colorado Active Growth Ventures. </p><p class="" style="white-space:pre-wrap;">So what’s with the tagline from? Only one of the greatest movies ever made, <a href="https://en.wikipedia.org/wiki/Kids_in_the_Hall:_Brain_Candy">Kids in the Hall: Brain Candy</a>. </p><p class="" style="white-space:pre-wrap;">Want to talk? Book a time during my <a href="https://calendly.com/benreu/30min">office hours</a>.</p>
+</div>
+
+
+
+&nbsp;]]></content:encoded>
+      <wp:post_name>about</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>7</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+    <item>
+      <link>/garage-door-incident</link>
+      <title>Garage Door Incident</title>
+      <pubDate>Tue, 07 Mar 2023 18:50:16 +0000</pubDate>
+      <content:encoded><![CDATA[<div class="sqs-html-content">
+  <p class="" style="white-space:pre-wrap;">&nbsp;On February 22, 2023 our garage door did not fully open. The garage stopped message was sent to the myQ app, however NO warning sound or light flashing was issued by the system. The driver fully waited for motor to stop before starting the vehicle. The below videos show the incident and there are screenshots of the applications. The referred technician could not see any obvious issue with the unit or setup that would have caused it to not function correctly. He serviced the door for $100. We opted to not replace the door at this time. Car damage was over $2000 and will likely raise our insurance rates. </p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:602px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:216.9435272216797%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg" data-image-dimensions="602x1306" data-image-focal-point="0.5,0.5" alt="" data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg" width="602" height="1306" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/d63da9a5-128e-412d-bbec-64c6b1a42022/B4716566-FC6F-40CE-B4EA-78B8EBD7E3C4_1_105_c.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">The garage closed properly at 4:01 PM. The garage did not fully open at 7:48am. The other entries were attempts to fully open/close the garage. </p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:0.5625%;"><div class="sqs-native-video" data-config-block-id="yui_3_17_2_1_1678211939791_3305" data-config-settings="null" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;64077d32f991f15f6230f6b4&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1678212402953,&quot;updatedOn&quot;:1678212402953,&quot;authorId&quot;:&quot;50272aa4e4b0b1e5ca88eeda&quot;,&quot;systemDataId&quot;:&quot;79e1da69-1fc3-4a3a-8722-d6265c05b8ee&quot;,&quot;systemDataVariants&quot;:&quot;1920:1080,640:360&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;unifi_022223_0748_44.0s.MOV&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;author&quot;:&#123;&quot;id&quot;:&quot;50272aa4e4b0b1e5ca88eeda&quot;,&quot;displayName&quot;:&quot;Ben Reubenstein&quot;,&quot;firstName&quot;:&quot;Ben&quot;,&quot;lastName&quot;:&quot;Reubenstein&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/79e1da69-1fc3-4a3a-8722-d6265c05b8ee/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;50272aa4e4b0b1e5ca88eed8&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:41.866667&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/79e1da69-1fc3-4a3a-8722-d6265c05b8ee/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;50272aa4e4b0b1e5ca88eed8&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:41.866667,&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;76b2f5db-be9b-3716-a866-2bc7eb6a5e9c&quot;,&quot;assetProtectionLevel&quot;:&quot;LIBRARY&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;,&quot;originalSize&quot;:&quot;1920:1080&quot;&#125;"><div class="native-video-player"></div></div></div><div  class="video-caption-wrapper"><div class="video-caption"><p class="" style="white-space:pre-wrap;">Exterior view of garage</p></div></div></div><div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:0.5625%;"><div class="sqs-native-video" data-config-block-id="yui_3_17_2_1_1678211939791_4616" data-config-settings="null" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;64077d91f991f15f6230f6da&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1678212497257,&quot;updatedOn&quot;:1678212497257,&quot;authorId&quot;:&quot;50272aa4e4b0b1e5ca88eeda&quot;,&quot;systemDataId&quot;:&quot;1893227b-36fc-4eea-9d87-7eda7073a0ac&quot;,&quot;systemDataVariants&quot;:&quot;1920:1080,640:360&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;unifi_022223_0748_50.0s.MOV&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;author&quot;:&#123;&quot;id&quot;:&quot;50272aa4e4b0b1e5ca88eeda&quot;,&quot;displayName&quot;:&quot;Ben Reubenstein&quot;,&quot;firstName&quot;:&quot;Ben&quot;,&quot;lastName&quot;:&quot;Reubenstein&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1893227b-36fc-4eea-9d87-7eda7073a0ac/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;50272aa4e4b0b1e5ca88eed8&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:42.466667&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1893227b-36fc-4eea-9d87-7eda7073a0ac/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;50272aa4e4b0b1e5ca88eed8&quot;,&quot;aspectRatio&quot;:1.7777777777777777,&quot;durationSeconds&quot;:42.466667,&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;c947143e-7304-33cb-8302-ce0475458991&quot;,&quot;assetProtectionLevel&quot;:&quot;LIBRARY&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;,&quot;originalSize&quot;:&quot;1920:1080&quot;&#125;"><div class="native-video-player"></div></div></div></div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+
+    
+  
+    <div
+        class="
+          image-block-outer-wrapper
+          layout-caption-below
+          design-layout-inline
+          combination-animation-none
+          individual-animation-none
+          individual-text-animation-none
+        "
+        data-test="image-block-inline-outer-wrapper"
+    >
+
+      
+
+      
+        <figure
+            class="
+              sqs-block-image-figure
+              intrinsic
+            "
+            style="max-width:1024px;"
+        >
+          
+        
+        
+
+        
+          
+            
+          <div
+              
+              
+              class="image-block-wrapper"
+              data-animation-role="image"
+              
+  
+
+          >
+            <div class="sqs-image-shape-container-element
+              
+          
+        
+              has-aspect-ratio
+            " style="
+                position: relative;
+                
+                  padding-bottom:75.09765625%;
+                
+                overflow: hidden;-webkit-mask-image: -webkit-radial-gradient(white, black);
+              "
+              >
+                
+                  
+                  
+                  
+                  
+                  
+                  
+                  <img data-stretch="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg" data-image="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg" data-image-dimensions="1024x769" data-image-focal-point="0.5,0.5" alt="" data-load="false" src="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg" width="1024" height="769" alt="" sizes="100vw" style="display:block;object-fit: cover; width: 100%; height: 100%; object-position: 50% 50%" srcset="https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg?format=100w 100w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg?format=300w 300w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg?format=500w 500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg?format=750w 750w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg?format=1000w 1000w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg?format=1500w 1500w, https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/f99f9f94-6a81-4716-b230-ce6fc073ad9f/9F5D7EA2-22DD-4E9E-99CB-1F563633C197_1_105_c.jpeg?format=2500w 2500w" loading="lazy" decoding="async" data-loader="sqs">
+                
+            </div>
+          </div>
+        
+          
+        
+
+        
+          
+          <figcaption class="image-caption-wrapper">
+            <div class="image-caption"><p class="" style="white-space:pre-wrap;">Damage to car</p></div>
+          </figcaption>
+        
+      
+        </figure>
+      
+
+    </div>
+  
+
+
+  
+
+
+<div class="intrinsic" style="max-width:100%"><div class="embed-block-wrapper " style="padding-bottom:0.5666317%;"><div class="sqs-native-video" data-config-block-id="yui_3_17_2_1_1678214755479_5080" data-config-settings="null" data-config-thumbnail="null" data-config-video="&#123;&quot;id&quot;:&quot;6407871266057616ebcc1623&quot;,&quot;recordType&quot;:61,&quot;addedOn&quot;:1678214930375,&quot;updatedOn&quot;:1678214930375,&quot;authorId&quot;:&quot;50272aa4e4b0b1e5ca88eeda&quot;,&quot;systemDataId&quot;:&quot;78e85b3f-bec2-43a7-9e86-23a84a5ea07b&quot;,&quot;systemDataVariants&quot;:&quot;1906:1080,636:360&quot;,&quot;systemDataSourceType&quot;:&quot;mp4&quot;,&quot;filename&quot;:&quot;unifi_022123_1315_30.0s.mov&quot;,&quot;body&quot;:null,&quot;likeCount&quot;:0,&quot;commentCount&quot;:0,&quot;publicCommentCount&quot;:0,&quot;commentState&quot;:1,&quot;author&quot;:&#123;&quot;id&quot;:&quot;50272aa4e4b0b1e5ca88eeda&quot;,&quot;displayName&quot;:&quot;Ben Reubenstein&quot;,&quot;firstName&quot;:&quot;Ben&quot;,&quot;lastName&quot;:&quot;Reubenstein&quot;&#125;,&quot;contentType&quot;:&quot;video/mp4&quot;,&quot;structuredContent&quot;:&#123;&quot;_type&quot;:&quot;SqspHostedVideo&quot;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/78e85b3f-bec2-43a7-9e86-23a84a5ea07b/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;50272aa4e4b0b1e5ca88eed8&quot;,&quot;aspectRatio&quot;:1.7648148148148148,&quot;durationSeconds&quot;:29.266667&#125;,&quot;videoCodec&quot;:&quot;h264&quot;,&quot;audioCodec&quot;:&quot;aac&quot;,&quot;alexandriaUrl&quot;:&quot;https://video.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/78e85b3f-bec2-43a7-9e86-23a84a5ea07b/&#123;variant&#125;&quot;,&quot;alexandriaLibraryId&quot;:&quot;50272aa4e4b0b1e5ca88eed8&quot;,&quot;aspectRatio&quot;:1.7648148148148148,&quot;durationSeconds&quot;:29.266667,&quot;pushedServices&quot;:&#123;&#125;,&quot;pendingPushedServices&quot;:&#123;&#125;,&quot;usageId&quot;:&quot;a517c070-2d65-3794-b81c-4ba009eefe59&quot;,&quot;assetProtectionLevel&quot;:&quot;LIBRARY&quot;,&quot;recordTypeLabel&quot;:&quot;sqsp-hosted-video&quot;,&quot;originalSize&quot;:&quot;1906:1080&quot;&#125;"><div class="native-video-player"></div></div></div><div  class="video-caption-wrapper"><div class="video-caption"><p class="" style="white-space:pre-wrap;">Correct opening of the door the day before</p></div></div></div>]]></content:encoded>
+      <wp:post_name>garage-door-incident</wp:post_name>
+      <wp:post_type>page</wp:post_type>
+      <wp:post_id>8</wp:post_id>
+      <wp:status>publish</wp:status>
+    </item>
+  </channel>
+</rss>
+
