@@ -23,11 +23,11 @@ There is no way to rehash all the stories here (maybe I’ll write a book someda
 
 The test worked but the UI was all messed up. Apple eventually requested that I change the name removing the word ‘iPhone’ so I went with iNetwork Test.
 
-![A capture of the site in 2008 after adding many more features.](https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577823683737-AFS87BR30SWD7MJB5CH3/inetwork.png)
+![A capture of the site in 2008 after adding many more features.](/assets/images/inetwork.png)
 
 ---
 
-![inetwork_wall_street_journal_small.jpg](https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577815705315-OHD82KXRY7F1OD795O7R/inetwork_wall_street_journal_small.jpg)
+![inetwork_wall_street_journal_small.jpg](/assets/images/inetwork_wall_street_journal_small.jpg)
 
 **July 8, 2008** [Walt Mossberg](https://twitter.com/waltmossberg) wrote up his [review of the new iPhone 3G](https://www.wsj.com/articles/SB121555740704037313). I was struggling to get my app through review going back and forth with Apple Engineers so I was elated to see that the web app version of iNetwork Test was used to showcase the increased speed of the new device. I was able to exchange a few emails and meet Walt at CES in 2011. Walt never cared for my native app, preferring the simplicity of my web app :).
 
@@ -35,11 +35,11 @@ The test worked but the UI was all messed up. Apple eventually requested that I 
 
 **July 14, 2008** the native iNetwork Test launched on the App Store. It was one of the first 100 or so apps to launch on the platform. I would update it often as the App Store used to have a view that showed the most recently updated Apps. It eventually peaked at 22 on the top 100 US Apps.
 
-![inetworktest_s1.png](https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577817125964-D7X6KBUEW7HCCFKGOB8S/inetworktest_s1.png "inetworktest_s1.png")
+![inetworktest_s1.png](/assets/images/inetworktest_s1.png "inetworktest_s1.png")
 
 ---
 
-![Photo by Danielle Reubenstein, Co-founder Xcellent Creations, Inc.](https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577827454015-57DAS7YG0VIQCF5N8WFD/DSC_0049.jpeg "Photo by Danielle Reubenstein, Co-founder Xcellent Creations, Inc.")
+![Photo by Danielle Reubenstein, Co-founder Xcellent Creations, Inc.](/assets/images/DSC_0049.jpeg "Photo by Danielle Reubenstein, Co-founder Xcellent Creations, Inc.")
 
 **August 2, 2008** iPhoneDevCamp Colorado took place at the ID345 co-working space. In attendance were individuals who now work at Apple, founded companies in the space, worked on software for fortune 500 companies, and so much more. That day I met some of my best friends and allies in the industry. I met Dan Burcaw that day, CEO and founder of Double Encore. Little did I know we’d be merging the companies 5 years later. Although I didn’t meet him that day Jay Graves was also in attendance, CTO of Double Encore. Lindsay Giachetti, Andrew Hyde, Matt Matteson, Joe Pezzillo, Heather Capri, Tom Harrington, Brent Simmons, Marcus Zarra, Dave Batton, Julio Barros, Brian Erickson, Kendall Gelner, Bill Dudney, Micah Baldwin, and Daniel Newman to name a few of the other attendees.
 
@@ -49,13 +49,13 @@ The test worked but the UI was all messed up. Apple eventually requested that I 
 
 ---
 
-![First night reception captured on the original iPhone 😬.](https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577826919587-0UQH9VG9063O9CBVCZRH/IMG_0453.jpeg "First night reception captured on the original iPhone 😬.")
+![First night reception captured on the original iPhone 😬.](/assets/images/IMG_0453.jpeg "First night reception captured on the original iPhone 😬.")
 
 And I haven’t even gotten out of 2008… Much more to write but wanted to get a couple of these down.
 
 It’s been quite a ride. At the final holiday party for the company I was presented with this infographic by the team. SO. MUCH. GRATITUDE.
 
-![Ben Reubenstein](https://images.squarespace-cdn.com/content/v1/50272aa4e4b0b1e5ca88eed8/1577143937045-CK413HGTJT1W7NSAH22T/Ben+Reubenstein "Ben Reubenstein")
+![Ben Reubenstein](/assets/images/Ben+Reubenstein.jpg "Ben Reubenstein")
 
 
 
