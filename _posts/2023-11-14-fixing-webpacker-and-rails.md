@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Fixing Webpacker and Rails
+title: Fixing Webpacker and Rails 6
 categories: []
 tags: []
 status: publish
